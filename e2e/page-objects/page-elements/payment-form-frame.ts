@@ -8,7 +8,8 @@ import {Input} from "../../locators/input";
 export class PaymentFormFrame extends BasePage {
  frame = this.page.frameLocator('iframe[class]');
 
-  get inputCardNumberField(): Button {
+
+ get inputCardNumberField(): Button {
     return new Button(this.frame.getByPlaceholder('Card number'));
     }
 }
