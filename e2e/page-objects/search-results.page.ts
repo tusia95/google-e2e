@@ -10,7 +10,6 @@ export class SearchResultsPage extends BasePage {
   }
 
   firstSearchResultLink(link: string): Block {
-    console.log(`(//*[@data-snf])[1]//a[@href="${link}"]`, 'my link');
     return new Block(this.page.locator(`(//*[@data-snf])[1]//a[@href="${link}"]`));
   }
 
