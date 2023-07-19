@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts":{
-    "test": "npx playwright test servers-portal.spec.ts"
+    "test": "npx playwright test google_basic_search.spec.ts"
   },
   "keywords": [],
   "author": "",

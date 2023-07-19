@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Servers-Portal-e2e.iml" filepath="$PROJECT_DIR$/.idea/Servers-Portal-e2e.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/google-e2e.iml" filepath="$PROJECT_DIR$/.idea/google-e2e.iml" />
     </modules>
   </component>
 </project>
